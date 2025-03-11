@@ -1,0 +1,16 @@
+{
+  "name": "Minifolio",
+  "shortName": null,
+  "description": "Showcase your best work using Minifolio",
+  "readme": "README.md",
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": []
+  }
+}
