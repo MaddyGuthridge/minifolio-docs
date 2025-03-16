@@ -6,8 +6,21 @@
   "icon": null,
   "banner": null,
   "color": "#3584e4",
-  "sections": [],
-  "children": [],
+  "sections": [
+    {
+      "type": "repo",
+      "label": "Check out Minifolio on GitHub",
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/Minifolio"
+      }
+    }
+  ],
+  "children": [
+    "deploy",
+    "data-format",
+    "contributing"
+  ],
   "filters": [],
   "seo": {
     "description": null,

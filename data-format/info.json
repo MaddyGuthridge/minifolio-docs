@@ -1,0 +1,18 @@
+{
+  "name": "Data format",
+  "description": "Learn about the format for Minifolio's data",
+  "readme": "README.md",
+  "shortName": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Data format"
+    ]
+  }
+}
