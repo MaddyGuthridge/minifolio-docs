@@ -1,0 +1,18 @@
+{
+  "name": "Getting started with Minifolio",
+  "description": "Learn how to set up your Minifolio instance",
+  "readme": "README.md",
+  "shortName": "Getting started",
+  "icon": null,
+  "banner": null,
+  "color": "#f5c211",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Getting started"
+    ]
+  }
+}

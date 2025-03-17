@@ -18,6 +18,7 @@
   ],
   "children": [
     "deploy",
+    "getting-started",
     "data-format",
     "contributing"
   ],
