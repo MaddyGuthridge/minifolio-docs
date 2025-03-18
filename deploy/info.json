@@ -10,9 +10,11 @@
   "children": [],
   "filters": [],
   "seo": {
-    "description": null,
+    "description": "Learn how to deploy a self-hosted Minifolio instance -- showcase your best work with Minifolio, a portfolio content management system designed with flexibility and simplicity in mind.",
     "keywords": [
-      "Deploying Minifolio"
+      "Deploying",
+      "Host",
+      "How to run"
     ]
   }
 }

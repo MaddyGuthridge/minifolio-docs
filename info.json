@@ -24,7 +24,15 @@
   ],
   "filters": [],
   "seo": {
-    "description": null,
-    "keywords": []
+    "description": "Showcase your best work -- Minifolio is a portfolio content management system designed with flexibility and simplicity in mind",
+    "keywords": [
+      "Minifolio",
+      "Portfolio",
+      "CMS",
+      "Open-source",
+      "OSS",
+      "Self-host",
+      "Self-hosted"
+    ]
   }
 }
