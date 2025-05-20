@@ -1,4 +1,4 @@
-# Showcase your best work
+# Minifolio - Showcase your best work
 
 
 Minifolio is a portfolio content management system designed with flexibility and simplicity in mind.
