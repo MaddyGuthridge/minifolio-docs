@@ -2,7 +2,12 @@
   "name": "Minifolio - Showcase your best work",
   "shortName": "Minifolio",
   "description": "Showcase your best work using Minifolio",
+  "timeCreated": 1747669280,
+  "timeEdited": 1747669280,
   "readme": "README.md",
+  "article": false,
+  "author": null,
+  "feed": null,
   "icon": null,
   "banner": null,
   "color": "#3584e4",
@@ -19,6 +24,7 @@
   "children": [
     "deploy",
     "getting-started",
+    "markdown",
     "data-format",
     "contributing"
   ],
@@ -34,10 +40,5 @@
       "Self-host",
       "Self-hosted"
     ]
-  },
-  "author": null,
-  "timeCreated": 1747669280,
-  "timeEdited": 1747669280,
-  "article": false,
-  "feed": null
+  }
 }

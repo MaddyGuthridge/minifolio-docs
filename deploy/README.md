@@ -14,7 +14,7 @@ It is easiest to deploy Minifolio using Docker Compose. Here is a reference `doc
 #   host system.
 services:
   minifolio:
-    image: maddyguthridge/minifolio
+    image: ghcr.io/maddyguthridge/minifolio
 
     hostname: minifolio
     restart: always

@@ -1,0 +1,23 @@
+{
+  "name": "Markdown in Minifolio",
+  "shortName": null,
+  "description": "Learn how to format your content in Minifolio's markdown editor",
+  "timeCreated": 1795188478,
+  "timeEdited": 1795188478,
+  "readme": "README.md",
+  "article": false,
+  "author": null,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#1dbe14",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Markdown in Minifolio"
+    ]
+  }
+}
