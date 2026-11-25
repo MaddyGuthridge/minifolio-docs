@@ -36,8 +36,6 @@ K: C#min
 G2|g2 fe d2 c2 | B2 F2 G2 EF | G2 AB A2 G2 | F2 D2 E2 |]
 </score>
 
-Wow that appears to be extremely broken. I think I will need to do a bug fix for that, oopsies!
-
 ## Diagrams using Mermaid
 
 You can embed [mermaid]() diagrams.
